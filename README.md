@@ -1,4 +1,6 @@
 # Geographical_Fetch
+![icon_mini](https://user-images.githubusercontent.com/36882050/165147378-eb1e9950-9e44-4018-af2f-3def8e1e9c5d.png)
+
 Plugin per generare fetch geografici
 ![rosa](https://user-images.githubusercontent.com/36882050/165111355-ed7dca6a-fcd1-4b98-ad0f-ee12e920eb03.png)
 Il fetch indica la superficie di mare aperto su cui spira il vento con direzione e intensità costante ed entro cui avviene la generazione del moto ondoso. Il termine fetch viene utilizzato in geografia, meteorologia, nelle costruzioni marittime ed è generalmente associato con l'erosione costiera.(fonte Wikipedia)
